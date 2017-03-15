@@ -6,7 +6,7 @@ Welcome, if you have ever wanted to add an additional source code management (SM
 Here you will find [instructions](instructions.md) on how to create a provider incl. an [API Overview](api-overview.md), pointers to [sample code](https://github.com/Microsoft/vscode-SCMBuilders/wiki), a [list of others] working on providers, and be able to [get help](https://github.com/Microsoft/vscode-SCMBuilders/issues) from the development team.
 
 ## Background & Rationale
-From day 1 VS Code shipped with [integrated Git support](http://code.visualstudio.com/docs/editor/versioncontrol) but of course not everyone is a Git user.  Right from our initial launch one of the most requested features has been adding a plugable SCM provider model - which would enable other SCM systems to be fully integrated e.g. [Subversion](https://github.com/Microsoft/vscode/issues/206), [Mecurial](https://github.com/Microsoft/vscode/issues/205).
+From day 1 VS Code shipped with [integrated Git support](http://code.visualstudio.com/docs/editor/versioncontrol) but of course not everyone is a Git user.  Right from our initial launch one of the most requested features has been adding a [plugable SCM provider](https://github.com/Microsoft/vscode/issues/2824) model - which would enable other SCM systems to be fully integrated e.g. [Subversion](https://github.com/Microsoft/vscode/issues/206), [Mecurial](https://github.com/Microsoft/vscode/issues/205).
 
 ## What's Possible via the API
 The short answer is that _anything_ that you could do as a user in the Integrated Git tooling has been exposed as an API.  This includes:
