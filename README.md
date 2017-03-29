@@ -1,5 +1,8 @@
 # Visual Studio Code - Source Control Management
 
+> **TIP:** Our work in progress [API documentation can be found here](https://github.com/Microsoft/vscode-docs/blob/vnext/docs/extensionAPI/api-scm.md).
+
+
 ## TL;DR
 Welcome, if you have ever wanted to add an additional source code management (SMC) system to VS Code then you have landed in the right place.  
 
